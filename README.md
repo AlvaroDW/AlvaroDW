@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Álvaro 👋</h1>
 
+<h2 align="center">Web & Multiplatform Software Developer</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&duration=3000&pause=1000&color=58A6FF&lines=Web+%26+Multiplatform+Developer;Backend+Architecture;Security+%26+Automation">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&duration=2800&pause=900&color=58A6FF&lines=Backend+Architecture+%26+API+Platforms;Security+%26+Automation;Android+App+Development">
 </p>
 
 <p align="center">
@@ -79,11 +81,6 @@ These areas reflect the type of systems I am actively working towards building a
 
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlvaroDW&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroDW&layout=compact&theme=tokyonight&hide_border=true">
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AlvaroDW&theme=tokyonight&hide_border=true">
