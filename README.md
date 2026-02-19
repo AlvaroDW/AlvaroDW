@@ -33,40 +33,67 @@ Building scalable and well-structured systems from APIs to Android applications.
 
 ## 🔬 Technical Interests
 
-Particularly interested in designing and developing:
+I am particularly interested in the design and development of:
 
-- Intelligent API platforms  
-- Secure distributed backend systems  
-- AI-integrated backend architectures (RAG-oriented systems)  
-- Scalable multi-service platforms  
-- Security-oriented application design  
+- Scalable backend architectures and API platforms  
+- Secure and distributed software systems  
+- Intelligent backend systems and AI-integrated architectures  
+- Automation-driven development and backend tooling  
+- Multiplatform applications with clean and maintainable structure  
 
-These areas reflect the type of systems I am actively working towards building and mastering.
+These areas reflect the direction in which I am actively expanding my expertise.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🖥 Backend
-- PHP (Slim, Laravel)
+<table align="center">
+<tr>
+<td valign="top" width="25%">
+
+### 💻 Languages
+- PHP
 - Python
 - Java
-- REST API Design
-- MySQL / SQL
-- PostgreSQL
-
-### 🌐 Frontend
 - JavaScript
+- Kotlin
+- SQL
+
+</td>
+<td valign="top" width="25%">
+
+### ⚙️ Frameworks & Technologies
+- Slim Framework
+- Laravel
 - Vue.js
+- Android SDK
+- REST APIs
+- JSON / HTTP
 
-### 📱 Mobile
-- Kotlin (Android)
+</td>
+<td valign="top" width="25%">
 
-### 🏗 Dev & Architecture
+### 🧱 Architecture & Practices
 - Clean Architecture
-- Domain-Driven Design
+- Domain-Driven Design (DDD)
+- Layered Architecture
+- Secure API Design
+- Modular system design
+
+</td>
+<td valign="top" width="25%">
+
+### 🛠 Infrastructure & Tools
+- Git & GitHub
 - Docker
-- Security-oriented development practices
+- Linux environment
+- MySQL / PostgreSQL
+- Automation scripting
+
+</td>
+</tr>
+</table>
+
 
 ---
 
