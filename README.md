@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Álvaro 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&duration=3000&pause=1000&color=58A6FF&lines=Multiplatform+Software+Developer;Backend+Architecture;Web+Development;Security+%26+Automation">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&duration=3000&pause=1000&color=58A6FF&lines=Web+%26+Multiplatform+Developer;Backend+Architecture;Security+%26+Automation">
 </p>
+
 
 <p align="center">
 Building scalable and well-structured systems from APIs to Android applications.
@@ -49,7 +50,7 @@ Building scalable and well-structured systems from APIs to Android applications.
 - Clean Architecture
 - Domain-Driven Design
 - Docker
-- security best practices
+- Security-oriented development practices
 
 ---
 
@@ -58,4 +59,4 @@ Building scalable and well-structured systems from APIs to Android applications.
 - Enterprise-style API portfolio projects  
 - Secure authentication systems  
 - Automation tools with Python  
-- Android apps structured with clean architecture  
+- Android apps structured with clean architecture
