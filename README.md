@@ -21,9 +21,10 @@ Building scalable and well-structured systems from APIs to Android applications.
 
 - Backend Architecture (SOLID, Clean Architecture, DDD principles)
 - REST API design & secure authentication
+- Intelligent API platforms & AI-integrated systems
+- Secure distributed system design
 - Automation workflows with Python
 - Android development with Kotlin
-- Performance & system structure
 
 ---
 
