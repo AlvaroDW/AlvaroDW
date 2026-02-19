@@ -42,17 +42,17 @@ PHP · Python · Java · JavaScript · Kotlin · SQL
 
 ---
 
-### ⚙️ Frameworks
+### ⚙️ Frameworks & Technologies
 Slim · Laravel · Vue.js · Android SDK · REST APIs · JSON / HTTP  
 
 ---
 
-### 🧱 Architecture
+### 🧱 Architecture & Practices
 Clean Architecture · Domain-Driven Design · Layered Architecture · Secure API Design · Modular System Design  
 
 ---
 
-### 🛠 Infrastructure
+### 🛠 Infrastructure & Tools
 Git & GitHub · Docker · Linux · MySQL · PostgreSQL · Automation Scripting
 
 
