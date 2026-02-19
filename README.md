@@ -107,6 +107,7 @@ These areas reflect the direction in which I am actively expanding my expertise.
 - Enterprise-style backend systems and API platforms  
 - Secure authentication and authorization mechanisms  
 - Automation tools
+- AI-integrated backend systems and intelligent API services  
 - Android applications structured using clean architecture  
 
 
