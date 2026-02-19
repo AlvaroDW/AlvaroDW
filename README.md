@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Álvaro 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&duration=3000&pause=1000&color=58A6FF&lines=Web+Development;+Multiplatform+Software+Developer;Backend+Architecture;Security+%26+Automation">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&duration=3000&pause=1000&color=58A6FF&lines=Multiplatform+Software+Developer;Backend+Architecture;Web+Development;Security+%26+Automation">
 </p>
 
 <p align="center">
