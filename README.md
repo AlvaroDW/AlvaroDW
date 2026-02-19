@@ -3,7 +3,7 @@
 <h2 align="center">Web & Multiplatform Software Developer</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&duration=2800&pause=900&color=58A6FF&lines=Backend+Architecture+%26+API+Platforms;Security+%26+Automation;Android+App+Development">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&duration=2800&pause=900&color=58A6FF&lines=Backend+Architecture+%26+API+Platforms;Scalable+%26+Distributed+Systems;Security+%26+Automation;Android+Development">
 </p>
 
 <p align="center">
