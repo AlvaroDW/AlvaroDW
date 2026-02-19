@@ -37,52 +37,17 @@ Building scalable and well-structured systems from APIs to Android applications.
 
 ## 🛠 Tech Stack
 
-<table align="center">
-<tr>
-<td valign="top" width="25%">
+**💻 Languages**  
+PHP · Python · Java · JavaScript · Kotlin · SQL  
 
-### 💻 Languages
-- PHP
-- Python
-- Java
-- JavaScript
-- Kotlin
-- SQL
+**⚙️ Frameworks**  
+Slim · Laravel · Vue · Android SDK · REST APIs  
 
-</td>
-<td valign="top" width="30%">
+**🧱 Architecture**  
+Clean Architecture · Domain-Driven Design · Secure API Design  
 
-### ⚙️ Frameworks & Technologies
-- Slim Framework
-- Laravel
-- Vue.js
-- Android SDK
-- REST APIs
-- JSON / HTTP
-
-</td>
-<td valign="top" width="25%">
-
-### 🧱 Architecture & Practices
-- Clean Architecture
-- Domain-Driven Design (DDD)
-- Layered Architecture
-- Secure API Design
-- Modular system design
-
-</td>
-<td valign="top" width="25%">
-
-### 🛠 Infrastructure
-- Git & GitHub
-- Docker
-- Linux environment
-- MySQL / PostgreSQL
-- Automation scripting
-
-</td>
-</tr>
-</table>
+**🛠 Infrastructure**  
+Git · Docker · Linux · MySQL · PostgreSQL  
 
 
 ---
