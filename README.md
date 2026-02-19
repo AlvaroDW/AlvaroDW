@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Álvaro 👋</h1>
+<h2 align="center">Hi, I'm Álvaro 👋</h2>
 
 <p align="center">
   <strong>Web & Multiplatform Software Developer</strong>
