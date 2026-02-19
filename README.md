@@ -59,3 +59,18 @@ Building scalable and well-structured systems from APIs to Android applications.
 - Secure authentication systems  
 - Automation tools with Python  
 - Android apps structured with clean architecture
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlvaroDW&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroDW&layout=compact&theme=tokyonight&hide_border=true">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AlvaroDW&theme=tokyonight&hide_border=true">
+</p>
+
