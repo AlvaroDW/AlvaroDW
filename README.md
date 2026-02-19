@@ -31,20 +31,6 @@ Building scalable and well-structured systems from APIs to Android applications.
 ---
 
 
-## 🔬 Technical Interests
-
-I am particularly interested in the design and development of:
-
-- Scalable backend architectures and API platforms  
-- Secure and distributed software systems  
-- Intelligent backend systems and AI-integrated architectures  
-- Automation-driven development and backend tooling  
-- Multiplatform applications with clean and maintainable structure  
-
-These areas reflect the direction in which I am actively expanding my expertise.
-
----
-
 ## 🛠 Tech Stack
 
 <table align="center">
@@ -93,6 +79,21 @@ These areas reflect the direction in which I am actively expanding my expertise.
 </td>
 </tr>
 </table>
+
+
+---
+
+## 🔬 Technical Interests
+
+I am particularly interested in the design and development of:
+
+- Scalable backend architectures and API platforms  
+- Secure and distributed software systems  
+- Intelligent backend systems and AI-integrated architectures  
+- Automation-driven development and backend tooling  
+- Multiplatform applications with clean and maintainable structure  
+
+These areas reflect the direction in which I am actively expanding my expertise.
 
 
 ---
