@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&duration=3000&pause=1000&color=58A6FF&lines=Web+%26+Multiplatform+Developer;Backend+Architecture;Security+%26+Automation">
 </p>
 
-
 <p align="center">
 Building scalable and well-structured systems from APIs to Android applications.
 </p>
