@@ -30,7 +30,7 @@ Building scalable and well-structured systems from APIs to Android applications.
 
 ## 🛠 Tech Stack
 
-### Backend
+### 🖥 Backend
 - PHP (Slim, Laravel)
 - Python
 - Java
@@ -38,18 +38,18 @@ Building scalable and well-structured systems from APIs to Android applications.
 - MySQL / SQL
 - PostgreSQL
 
-### Frontend
+### 🌐 Frontend
 - JavaScript
 - Vue.js
 
-### Mobile
+### 📱 Mobile
 - Kotlin (Android)
 
-### Dev & Architecture
+### 🏗 Dev & Architecture
 - Clean Architecture
 - Domain-Driven Design
 - Docker
-- cybersecurity practices
+- security best practices
 
 ---
 
