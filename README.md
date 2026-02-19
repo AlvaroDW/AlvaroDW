@@ -50,7 +50,7 @@ Building scalable and well-structured systems from APIs to Android applications.
 - SQL
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="30%">
 
 ### ⚙️ Frameworks & Technologies
 - Slim Framework
@@ -73,7 +73,7 @@ Building scalable and well-structured systems from APIs to Android applications.
 </td>
 <td valign="top" width="25%">
 
-### 🛠 Infrastructure & Tools
+### 🛠 Infrastructure
 - Git & GitHub
 - Docker
 - Linux environment
