@@ -42,7 +42,7 @@ PHP · Python · Java · JavaScript · Kotlin · SQL
 
 ---
 
-### ⚙️ Frameworks & Technologies
+### ⚙️ Framework & Technologies
 Slim · Laravel · Vue.js · Android SDK · REST APIs · JSON / HTTP  
 
 ---
