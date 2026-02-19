@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Álvaro 👋</h1>
 
-<p align="center">Web & Multiplatform Software Developer</p>
+<p align="center"><b>Web & Multiplatform Software Developer</b</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&duration=2800&pause=900&color=58A6FF&lines=Backend+Architecture+%26+API+Platforms;Scalable+%26+Distributed+Systems;Security+%26+Automation;Android+Development">
