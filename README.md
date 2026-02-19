@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Álvaro 👋</h1>
 
-<!--
-**AlvaroDW/AlvaroDW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&duration=3000&pause=1000&color=58A6FF&lines=Web+Developer;+Multiplatform+Software+Developer;Backend+Architecture;Security+%26+Automation">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+Building scalable and well-structured systems from APIs to Android applications.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+📫 Open To freelance projects and backend opportunities.
+</p>
+
+
+
+---
+
+
+## 🧠 Professional Focus
+
+- Backend Architecture (SOLID, Clean Architecture, DDD principles)
+- REST API design & secure authentication
+- Automation workflows with Python
+- Android development with Kotlin
+- Performance & system structure
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- PHP (Slim, Laravel)
+- Python
+- Java
+- REST API Design
+- MySQL / SQL
+- PostgreSQL
+
+### Frontend
+- JavaScript
+- Vue.js
+
+### Mobile
+- Kotlin (Android)
+
+### Dev & Architecture
+- Git & GitHub
+- Clean Architecture
+- Domain-Driven Design
+- Docker (in progress)
+- Basic cybersecurity practices
+
+---
+
+## 🚀 What I'm Building
+
+- Enterprise-style API portfolio projects  
+- Secure authentication systems  
+- Automation tools with Python  
+- Android apps structured with clean architecture  
