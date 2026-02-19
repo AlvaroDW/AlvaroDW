@@ -28,6 +28,21 @@ Building scalable and well-structured systems from APIs to Android applications.
 
 ---
 
+
+## 🔬 Technical Interests
+
+Particularly interested in designing and developing:
+
+- Intelligent API platforms  
+- Secure distributed backend systems  
+- AI-integrated backend architectures (RAG-oriented systems)  
+- Scalable multi-service platforms  
+- Security-oriented application design  
+
+These areas reflect the type of systems I am actively working towards building and mastering.
+
+---
+
 ## 🛠 Tech Stack
 
 ### 🖥 Backend
@@ -55,13 +70,13 @@ Building scalable and well-structured systems from APIs to Android applications.
 
 ## 🚀 What I'm Building
 
-- Enterprise-style API portfolio projects  
+- Building enterprise-style backend projects  
 - Secure authentication systems  
-- Automation tools with Python  
+- Automation tools and backend utilities
 - Android apps structured with clean architecture
 
-
 ---
+
 
 ## 📊 GitHub Stats
 
