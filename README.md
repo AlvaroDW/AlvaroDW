@@ -45,11 +45,10 @@ Building scalable and well-structured systems from APIs to Android applications.
 - Kotlin (Android)
 
 ### Dev & Architecture
-- Git & GitHub
 - Clean Architecture
 - Domain-Driven Design
-- Docker (in progress)
-- Basic cybersecurity practices
+- Docker
+- cybersecurity practices
 
 ---
 
